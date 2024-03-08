@@ -20,6 +20,6 @@ I'm a passionate Full-Stack Web Developer based in Noakhali, Bangladesh. I love 
 ## Contact Me
 
 📧 Email: [md.suzayet.377@gmail.com](mailto:md.suzayet.377@gmail.com)  
-🌐 LinkedIn: [hassanrazadev](https://www.linkedin.com/in/hassanrazadev/)
+🌐 LinkedIn: [mdsuzayethossan](https://www.linkedin.com/in/mdsuzayethossan/)
 
 Please feel free to contact me if you would like to learn more about my work. 😊
